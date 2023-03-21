@@ -19233,7 +19233,7 @@ const vOr = qi(qEr, [
         this.riders.push({
           firstName: "Jakub",
           lastName: "Bidlo",
-          nickName: "BJ",
+          nickName: "JB",
           role: "designer and manager of CDR",
           age: 29,
           city: "Liberec",
